@@ -1,0 +1,30 @@
+Loot Type,X,Y,Z
+Spawn,-51,3,49
+Spawn,-51,3,51
+Spawn,-50,3,50
+Spawn,-52,3,50
+Spawn,-51,4,50
+Spawn,-52,2,49
+Spawn,-52,2,51
+Spawn,-50,2,51
+Spawn,-50,2,49
+Normal,-2,6,50
+Normal,-80,6,76
+Normal,-51,5,10
+Normal,-80,6,35
+Normal,-51,12,5
+Normal,-51,12,71
+Normal,-99,12,38
+Normal,-51,19,-3
+Normal,-78,19,26
+Normal,-85,18,81
+Normal,-66,12,45
+Normal,-22,18,81
+Normal,-26,6,75
+Normal,-33,12,17
+Normal,-51,18,105
+Normal,-17,6,41
+High Value,-22,23,22
+High Value,-100,11,50
+High Value,-68,17,94
+High Value,-51,17,25
